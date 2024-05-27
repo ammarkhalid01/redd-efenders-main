@@ -359,7 +359,7 @@ ul.features li.has_icon p.image img {
     width: 3rem;
     margin: 0 auto;
     border-radius: 0;
-    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%) !important;
+    filter: invert(50%) sepia(8%) saturate(1000%) hue-rotate(127deg) brightness(158%) contrast(41%) !important;
 }
 
 
