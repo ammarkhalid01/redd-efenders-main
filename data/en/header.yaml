@@ -1,0 +1,47 @@
+logo_image: /uploads/branding/logo.png
+logo_subtitle: Red-Defenders
+mobile_view_width: 1000
+menuitems:
+  - title: Home
+    link: /
+    items: 
+      - title:
+        link:
+  - title: About
+    link: /about/
+    items: 
+      - title:
+        link:
+  - title: Services
+    link: /services/
+    items: 
+      - title: Elements
+        link: /elements/
+      - title: Header image 1
+        link: /bgimage3/
+      - title: Header image 2
+        link: /bgimage2/
+      - title: Header image 3
+        link: /bgimage/
+      - title: Basic page 1
+        link: /basic/
+      - title: Basic page 2
+        link: /basic2/
+      - title: Our team
+        link: /team/
+      - title: Contact us
+        link: /contact/
+      - title: F.A.Q.
+        link: /faq/
+      - title: 404 Page
+        link: /404.html
+
+  - title: Blog
+    link: /blog/
+
+  - title: Contact Us
+    link: /contact/
+cta:
+  active: true
+  title: Get started
+  link: /get-started/
