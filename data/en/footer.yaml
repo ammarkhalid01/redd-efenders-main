@@ -1,6 +1,8 @@
-logo_image:
-dark_footer: true
+logo_image: /uploads/branding/logo.png
+dark_footer: false
 menuitems:
+  - title: Home
+    link:  /
   - title: About
     link:  /about/
   - title: Elements

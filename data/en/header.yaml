@@ -23,29 +23,15 @@ menuitems:
 
       - title: Adversary Simulation
         link: /adversary-simulation/
-      - title: Header image 3
-        link: /bgimage/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Our team
-        link: /team/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page
-        link: /404.html
 
   - title: Blog
     link: /blog/
 
   - title: Training
-    link: /contact/
+    link: /traning/
 
   - title: Store
-    link: /contact/
+    link: /store/
 cta:
   active: true
   title: Get started
