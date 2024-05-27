@@ -39,7 +39,10 @@ menuitems:
   - title: Blog
     link: /blog/
 
-  - title: Contact Us
+  - title: Training
+    link: /contact/
+
+  - title: Store
     link: /contact/
 cta:
   active: true
