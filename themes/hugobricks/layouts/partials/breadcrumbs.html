@@ -1,8 +1,8 @@
 <ul class="breadcrumbs">
-    {{- range .Page.Ancestors.Reverse -}}
+    {{- range page.Ancestors.Reverse -}}
     <li><a href="{{ .RelPermalink }}">{{ .Title | truncate 25 }}</a></li>
     {{- end -}}
-    {{- if ne .Page.Section "posts" -}}
+    {{- if ne page.Section "posts" -}}
     <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title | truncate 25 }}</a></li>
     {{- end -}}
 </ul>
