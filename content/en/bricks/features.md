@@ -8,21 +8,21 @@ Hugobricks covers all components you would like to have at hand. It is a power e
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
+### Vulnerability Assessment
 
 We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
+### Penetration Testing
 
 Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
+### Adversary Simulation
 
 Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 

@@ -3,95 +3,76 @@ title: Home
 ---
 {{< brick_intro >}}
 
-# Build your next Hugo website with stackable content bricks
+# Red Defenders: Empowering Tomorrow, Leading in Tech.
 
-Hugobricks is a free website theme for Hugo. It makes building Hugo websites child's play due to its stackable (LEGO-like) content bricks. How about this 'intro brick' with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
+Red Defenders leads the charge in technology, empowering progress, guaranteeing tomorrow, and pioneering innovation.!
 
-{{< button "Get started for free" "/get-started/" >}}
+{{< button "Get started" "/get-started/" >}}
 
 ![](/uploads/illustrations/cuate/assets.svg)
 
 {{< /brick_intro >}}
 {{< brick_image2 >}}
 
-## What’s included in Hugobricks?
+## What's included in CyberShield?
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
-Hugoplate is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
+CyberShield is a comprehensive cybersecurity solution that includes everything you need to protect your digital assets.
 
-- 10+ Pre-build pages
-- 99+ Google Pagespeed Score
-- Built with Hugo and CSS variables for easy styling
-- Fully responsive on all devices
-- SEO-optimized for better search engine rankings
+- 10+ Advanced Threat Detection algorithms
+- 95+ Firewall Protection configurations
+- Built with industry-leading Encryption Tools
+- Fully automated Vulnerability Scanning
+- Multi-Factor Authentication (MFA)   
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## What bricks are available?
+## Discover the Key Features of CyberShield
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
+CyberShield is an all-in-one cybersecurity solution for protecting your digital assets. It offers a range of advanced features for IT professionals and security enthusiasts. 
 
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
+- Regular Updates for continuous protection
+- User-Friendly Interface for easy management
+- Detailed Reporting for comprehensive insights
+- Open-source and customizable
 
 {{< /brick_image >}}
 {{< brick_reviews >}}{{< /brick_reviews >}}
 {{< brick_features >}}
-## The Ultimate Hugo theme
-
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+## Our Services
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
+### Vulnerability Assessment
 
 We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
+### Penetration Testing
 
 Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
+### Adversary Simulation
 
 Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Fully responsive on all devices
-
-Works on every screen. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Super fast builds and deploys
-
-Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### 10+ pre-build pages
-
-Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 {{< /brick_features >}}
 {{< brick_prices >}}
 
-## Our friendly pricing
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+## Our Pricing
 
 ---
 

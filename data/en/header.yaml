@@ -15,12 +15,14 @@ menuitems:
   - title: Services
     link: /services/
     items: 
-      - title: Elements
-        link: /elements/
-      - title: Header image 1
-        link: /bgimage3/
-      - title: Header image 2
-        link: /bgimage2/
+      - title: Vulnerability Assessment
+        link: /vulnerability-assessment/
+
+      - title: Penetration Testing
+        link: /penetration-testing/
+
+      - title: Adversary Simulation
+        link: /adversary-simulation/
       - title: Header image 3
         link: /bgimage/
       - title: Basic page 1
