@@ -9,14 +9,14 @@ Red Defenders leads the charge in technology, empowering progress, guaranteeing 
 
 {{< button "Get started" "/get-started/" >}}
 
-![](/uploads/illustrations/cuate/assets.svg)
+![](/uploads/banner2.png)
 
 {{< /brick_intro >}}
 {{< brick_image2 >}}
 
 ## What's included in CyberShield?
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/banner5.png)
 
 CyberShield is a comprehensive cybersecurity solution that includes everything you need to protect your digital assets.
 
@@ -31,7 +31,7 @@ CyberShield is a comprehensive cybersecurity solution that includes everything y
 
 ## Discover the Key Features of CyberShield
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/uploads/banner4.png)
 
 CyberShield is an all-in-one cybersecurity solution for protecting your digital assets. It offers a range of advanced features for IT professionals and security enthusiasts. 
 
@@ -50,21 +50,21 @@ CyberShield is an all-in-one cybersecurity solution for protecting your digital 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
 ### Vulnerability Assessment
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
+Vulnerability Assessment Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed..
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### Penetration Testing
 
-Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Penetration Testing. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
 ### Adversary Simulation
 
-Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Adversary Simulation. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 ---
 
