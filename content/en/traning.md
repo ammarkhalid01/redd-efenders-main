@@ -3,22 +3,96 @@ title: Training
 ---
 {{< brick_wide >}}
 
+# Cyber Security Training
 
+Experience groundbreaking learning at White Knight Labs’ dynamic training programs. Our coursework includes an Offensive Development training program tailored to help you build payloads specifically designed to bypass modern AV/EDR products from scratch. Await the upcoming Advanced Red Team Operations course— an advanced to expert level simulated lab program that provides students with practical experience in carrying out Advanced Red Team Operations using Cobalt Strike.
 
-# Traning
+With sessions led by live instructors via Zoom, these hands-on training programs assure you an immersive deep dive into the realm of cybersecurity, thus elevating your skill levels significantly.
 
-Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at [fermentum](https://www.google.com) nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+### Live, Instructor-led training over Zoom
 
-## Heading 2
+    {{< /brick_wide >}}
 
-Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Maecenas](https://www.google.com) molestie sodales bibendum. Nullam egestas nulla eget justo cursus, vitae convallis nibh fermentum. Phasellus ornare, purus in dapibus gravida, diam odio feugiat lectus, in efficitur dolor ante ut odio.
+<div class="cards-container">
+    <div class="card">
+        <h2>Offensive Development Training</h2>
+        <p>This intensive, hands-on experience offers a deep dive into Windows Internals, manipulation of Windows API functions dynamically, and developing malware in an isolated cyber range, providing you with the necessary tools to outsmart contemporary cyber defenses.</p>
+        {{< button "Get started" "/get-started/" >}}
+    </div>
+    <div class="card">
+        <h2>Advanced Red Team Operations Course</h2>
+        <p>Red Team Advanced Operations Training at White Knight Labs will equip you with cutting-edge techniques and skillful strategies to master complex cyber attack simulations. We will guide you through effective adversarial emulation and help you navigate the cybersecurity landscape.</p>
+        {{< button "Get started" "/get-started/" >}}
+    </div>
+    <div class="card">
+        <h2>Offensive Azure Operations & Tactics</h2>
+        <p>A comprehensive program designed to give participants a deep understanding of Azure’s infrastructure and security features through practical, hands-on experience. During the two days of virtual instruction, you’ll learn how to identify and exploit Azure components.</p>
+        {{< button "Get started" "/get-started/" >}}
+    </div>
+</div>
 
-### Heading 3
+{{< brick_cta >}}{{< /brick_cta >}}
 
-Proin ac *lobortis* tellus, ut [maximus](https://www.google.com) magna. Aliquam facilisis risus sit amet augue congue varius. Duis augue nulla, aliquam vitae efficitur eget, bibendum et tellus. Aenean quis sagittis felis. 
+<style>
+    .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    width: 90%;
+    align-items: center;
+    margin: auto;
+}
+.card {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
 
-### Heading 3
+@media screen and (max-width: 1000px){
+        .cards-container {
+    width: 100%;
+}
+.card {
+    width: 40%;
+}
+}
 
-Donec rutrum felis dignissim nisl tincidunt, sit amet interdum dolor ornare. Cras id hendrerit eros. Curabitur tincidunt est magna, ac commodo quam fringilla id. Nullam at imperdiet justo. Donec **dolor quis** nibh *rutrum facilisis* sed vulputate pellentesque. Vivamus id mollis arcu. Cras porttitor eros erat, at semper ligula ultricies nec. Nam lectus ex, mollis efficitur erat pulvinar, gravida faucibus massa.
+@media screen and (max-width: 660px){
+        .cards-container {
+    width: 100%;
+}
+.card {
+    width: 60%;
+}
+}
 
-{{< /brick_wide >}}
+@media screen and (max-width: 420px){
+        .cards-container {
+    width: 100%;
+}
+.card {
+    width: 70%;
+}
+
+.card h2 {
+    margin-top: 0;
+    text-wrap: wrap;
+    font-size: 25px;
+    font-weight: bold;
+}
+}
+
+.card h2 {
+    margin-top: 0;
+    text-wrap: wrap;
+}
+
+.cards-container p{
+    margin-bottom: 0px !important;
+    margin-top: 10px !important;
+}
+</style>
