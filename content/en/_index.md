@@ -41,7 +41,8 @@ CyberShield is an all-in-one cybersecurity solution for protecting your digital 
 - Open-source and customizable
 
 {{< /brick_image >}}
-{{< brick_reviews >}}{{< /brick_reviews >}}
+
+
 {{< brick_features >}}
 ## Our Services
 

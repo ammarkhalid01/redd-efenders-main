@@ -1,0 +1,29 @@
+---
+title: Three Ways Utility Companies Can Protect National Grids from Cyberattacks
+image: /uploads/gallery/post-inside-image2.jpg
+date: 2024-05-28
+tags:
+   - cybersecurity
+   - protection
+   - coding
+---
+
+### By: Luke Secrist, CEO
+Welcome to the shadows of the digital world, where hidden threats lurk and vulnerabilities are exploited.  In this interconnected world, technology seamlessly intertwines with our everyday lives and we find ourselves vulnerable to the vastly growing breed of cyber threat:  social engineering.  While many are familiar with the concept on a surface level, there are crucial aspects often overlooked.
+
+Organizations are using more IoT devices; therefore, increased pressure is put on the grid and more weaknesses are exposed. This exposure provides threat actors with further opportunities to disrupt operations. As utilities evolve and deploy more industrial controls, such as smart systems from access controls to meters, greater connectivity gives way to greater risk. These IoT devices are prime targets for attackers and many do not have thorough monitoring methods for detecting unusual or unauthorized activities. This gives bad actors a considerable vector into an organization’s network.
+
+The repercussions of an attack could be astronomical – public safety chaos from prolonged downtime, the unauthorized control of hazardous systems, such as nuclear power plants, to a potential public health crisis if water distribution systems go down. The list goes on. Remember the Ukraine power grid attack in 2015? Over 200,000 people were without power for hours. If it happened once, it could happen again.
+
+Criminal groups, state-sponsored or not, pose a significant cyber threat to the grid infrastructure, according to the Director of National Intelligence’s 2022 Annual Threat Assessment. Several U.S. Federal Government agencies have issued warnings for industrial control system (ICS) devices as a threat vector for state-backed hackers using them for malware. Earlier this year, CISA, DOE, NSA, and the FBI released warnings regarding this issue. The Federal Energy Regulatory Commission (FERC) – which regulates the interstate transmission of electricity – approved mandatory grid cybersecurity standards. Still, the steps to ensure it doesn’t happen are unfortunately inadequate. Incorrect configurations and poor maintenance regimes point to a weak cyber policy and posture that needs modernization.
+
+![](/uploads/gallery/post-inside-image3.jpg)
+
+## Here are three ways to start:
+
+#### Embrace offensive security. 
+- Properly configured firewalls and other perimeter devices are essential, but it’s a defensive strategy. There are two reasons why more is needed. First, it assumes that you are protecting your organization against external threats only. This ignores the danger that organizations can have internally. Secondly, you are relying on devices to stay up-to-date (patched, scanned, maintained, etc.) and are configured correctly. Most companies don’t assess these devices frequently, audits may only occur once a year, and not all devices are checked, so many companies are flying blind as to whether a network is entirely secure. Offensive security involves identifying issues before they are detected and before bad actors can exploit them. Essentially, you’re trying to break in before someone else does. And no, vulnerability scanning alone doesn’t cut it. Defensive cyber is still a critical part of a company’s cyber policy for perimeter, response capability, and reaction time. Still, only the deployment of both offensive and defensive security will provide maximum protection. Defensive objectives protect and detect, while offensive objectives seek to circumvent, exploit, and compromise. You can say your defense is solid all day long, but until you have sophisticated hackers attempt to breach it, you don’t fully know.
+#### Deploy continuous threat simulation. 
+- Companies need to constantly throw threats and real-world attacks at a system to ensure there aren’t weaknesses. Compliance can’t be the security driver, nor can one or two penetration tests. Hackers don’t work once or twice a year. Businesses are susceptible all the time and they need to be tested continuously. This involves adopting a continuous testing model that includes at least a dozen external tests each year – one per month that varies between planned and unplanned attacks. These attacks should consist of mimicking outside and inside threats. This type of cyclical testing helps fortify your environment and account for any changes made (known and unknown). In addition, continuous threat simulation provides useful metrics (trends, historical data) and fosters more robust security. Organizations can save money and resources by reducing time spent on unplanned work due to breaches.
+#### Rely on humans, not just scans. 
+- It’s easy to rely on technology to scan for vulnerabilities. But technology can’t adapt on the fly; only humans can do that. Automated tools can’t always figure out how to circumvent a system or use custom code to get past protocols unique to an organization. That’s because automated tools are based on preloaded definitions or playbooks. Professional hackers are the opposite. They can be creative. They have engineering and development backgrounds, as well as an aptitude for thinking like the enemy, which they use to expose gaps and potential exploits. Cybercriminals know the latest tricks and can figure out ways, new and old, to hold systems ransom or access controls that can shut down a company in minutes. Put a solid human hacker up against an automated test tool; without a doubt, the human will generate more significant results.
