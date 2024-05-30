@@ -255,7 +255,36 @@ section {
 </section>
 <!-- content -->
 
-{{< newsletterform >}}
+
+<form id="contactform" class="form" method="POST" action="/form.php">
+    <h3>Tell us a bit about yourself</h3>
+    <div>
+        <label class="inborder sr-only" for="name">Name</label>
+        <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
+    </div>
+    <div>
+        <label class="inborder sr-only" for="email">Email address</label>
+        <input type="email" name="email" id="email" class="form-control" placeholder="Email address" required>
+    </div>
+    <div>
+        <label class="inborder sr-only" for="message">Message</label>
+        <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Message" required></textarea>
+    </div>
+    <div class="checkbox">
+        <label><input type="checkbox" name="Product_LoRa" value="I am interested in LoRa Implant">I am interested in LoRa Implant</label>
+    </div>
+    <div class="checkbox">
+        <label><input type="checkbox" name="Product_Ethernet" value="I am interested in Ethernet LoRa implant">I am interested in Ethernet LoRa implant</label>
+    </div>
+    <div class="checkbox">
+        <label><input type="checkbox" name="Product_Noise" value="I am interested in Low Noise Amplifier">I am interested in Low Noise Amplifier</label>
+    </div>
+    <div class="submit">
+        <div><input type="submit" value="Submit form" class="button"></div>
+    </div>
+</form>
+
+
 
 {{< /brick_wide >}}
 
