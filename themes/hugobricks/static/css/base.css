@@ -608,17 +608,13 @@ ul.breadcrumbs li a {
 /*------------------------*/
 
 ul.grid {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-    /* margin: 0; */
-    padding-bottom: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 @media screen and (max-width: 650px) {
     ul.grid {
-        flex-wrap: wrap;
+        grid-template-columns: 1fr;
     }
 }
 
