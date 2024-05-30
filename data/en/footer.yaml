@@ -11,5 +11,11 @@ menuitems:
     link:  /store/
   - title: Contact Us
     link:  /get-started/
-
+socials:
+  - title: Linkedin
+    link: https://www.linkedin.com/f
+    logo_image: /img/linkedin.svg
+  - title: Twitter
+    link: https://twitter.com
+    logo_image: /img/twitter.svg          
 footer_text: All rights goes to Red Defender Information Security | @Copyright 2024

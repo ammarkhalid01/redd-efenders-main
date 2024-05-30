@@ -9,6 +9,14 @@ fields:
   input_type: text
   placeholder: Name
   required: true
+- name: company
+  input_type: text
+  placeholder: Company
+  required: false
+- name: phone
+  input_type: number
+  placeholder: Phone
+  required: true
 - name: email
   input_type: email
   placeholder: Email address

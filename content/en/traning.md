@@ -14,8 +14,8 @@ awareness	and	resilience	within	your	organization.
 
 <div class="cards-container">
     <div class="card">
-        <h2>Ethical Hacking Training Best Course</h2>
-        <p>This	comprehensive	program	is	designed	for	aspiring	ethical	hackers,	
+        <h2>Ethical Hacking</h2>
+        <p class="pp">This	comprehensive	program	is	designed	for	aspiring	ethical	hackers,	
 cybersecurity	professionals,	and	IT	enthusiasts	who	want	to	develop	the	skills	
 needed	to	identify,	exploit,	and	mitigate	security	vulnerabilities.	Through	handson	labs,	real-world	scenarios,	and	expert	instruction,	you	will	learn	the	essential	
 techniques	and	tools	used	in	ethical	hacking	and	penetration	testing.</p>
@@ -44,15 +44,16 @@ vulnerabilities	in	iOS	applications.</p>
 {{< brick_cta >}}{{< /brick_cta >}}
 
 <style>
-    .cards-container {
+.cards-container {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
     width: 90%;
-    align-items: center;
+    align-items: stretch;
     margin: auto;
 }
+
 .card {
     background: #f9f9f9;
     border: 1px solid #ddd;
@@ -60,49 +61,72 @@ vulnerabilities	in	iOS	applications.</p>
     padding: 20px;
     width: 30%;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
 }
 
-@media screen and (max-width: 1000px){
-        .cards-container {
-    width: 100%;
-}
-.card {
-    width: 40%;
-}
+.button-container {
+    margin-top: auto; /* Pushes the button to the bottom of the card */
 }
 
-@media screen and (max-width: 660px){
-        .cards-container {
-    width: 100%;
-}
-.card {
-    width: 60%;
-}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    /* background-color: #007BFF; */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    text-align: center;
 }
 
-@media screen and (max-width: 420px){
-        .cards-container {
-    width: 100%;
+@media screen and (max-width: 1000px) {
+    .cards-container {
+        width: 100%;
+    }
+    .card {
+        width: 40%;
+    }
 }
-.card {
-    width: 70%;
+
+@media screen and (max-width: 660px) {
+    .cards-container {
+        width: 100%;
+    }
+    .card {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .cards-container {
+        width: 100%;
+    }
+    .card {
+        width: 70%;
+    }
 }
 
 .card h2 {
     margin-top: 0;
     text-wrap: wrap;
-    font-size: 25px;
+    font-size: 35px;
     font-weight: bold;
 }
-}
 
-.card h2 {
-    margin-top: 0;
-    text-wrap: wrap;
-}
-
-.cards-container p{
+.cards-container p {
     margin-bottom: 0px !important;
     margin-top: 10px !important;
+}
+
+.cards-container .pp {
+    margin-bottom: 25px !important;
+    margin-top: 26px !important;
+}
+
+@media screen and (min-width: 1400px ){
+.cards-container .pp {
+    margin-bottom: 0px !important;
+    margin-top: 25px !important;
+}
 }
 </style>
