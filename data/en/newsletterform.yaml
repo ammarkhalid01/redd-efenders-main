@@ -20,15 +20,15 @@ fields:
 - name: Product LoRa
   input_type: checkbox
   placeholder: I am interested in LoRa Implant 
-  required: true
+  required: false
 - name: Product Ethernet
   input_type: checkbox
   placeholder: I am interested in Ethernet LoRa implant 
-  required: true
+  required: false
 - name: Product Noise
   input_type: checkbox
   placeholder: I am interested in Low Noise Amplifier
-  required: true
+  required: false
 - name: submit
   input_type: submit
   placeholder: Submit form
