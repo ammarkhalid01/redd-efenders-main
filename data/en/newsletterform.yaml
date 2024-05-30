@@ -1,6 +1,10 @@
 action: /form.php
 placeholders: false
 fields: 
+- name: title
+  input_type: html
+  placeholder: <h3>Tell us a bit about yourself</h3>
+  required: true
 - name: name
   input_type: text
   placeholder: Name
@@ -8,6 +12,22 @@ fields:
 - name: email
   input_type: email
   placeholder: Email address
+  required: true
+- name: message
+  input_type: textarea
+  placeholder: Message
+  required: false
+- name: Product LoRa
+  input_type: checkbox
+  placeholder: I am interested in LoRa Implant 
+  required: true
+- name: Product Ethernet
+  input_type: checkbox
+  placeholder: I am interested in Ethernet LoRa implant 
+  required: true
+- name: Product Noise
+  input_type: checkbox
+  placeholder: I am interested in Low Noise Amplifier
   required: true
 - name: submit
   input_type: submit

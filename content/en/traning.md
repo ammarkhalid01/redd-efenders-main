@@ -3,11 +3,9 @@ title: Training
 ---
 {{< brick_wide >}}
 
-# Cyber Security Training
+# CyberSecurity Training
 
-Experience groundbreaking learning at White Knight Labs’ dynamic training programs. Our coursework includes an Offensive Development training program tailored to help you build payloads specifically designed to bypass modern AV/EDR products from scratch. Await the upcoming Advanced Red Team Operations course— an advanced to expert level simulated lab program that provides students with practical experience in carrying out Advanced Red Team Operations using Cobalt Strike.
-
-With sessions led by live instructors via Zoom, these hands-on training programs assure you an immersive deep dive into the realm of cybersecurity, thus elevating your skill levels significantly.
+Empower your team with the knowledge and skills they need to defend against cyber threats. Our comprehensive training programs are designed to enhance your staff's cybersecurity awareness and proficiency, ensuring your organization remains secure.
 
 ### Live, Instructor-led training over Zoom
 

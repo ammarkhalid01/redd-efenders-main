@@ -1,4 +1,4 @@
-logo_image: /uploads/branding/logo.png
+logo_image: /uploads/branding/horizantal-logo.png
 logo_subtitle: Red-Defenders
 mobile_view_width: 1000
 menuitems:
@@ -15,16 +15,14 @@ menuitems:
   - title: Services
     link: /services/
     items: 
-      - title: Vulnerability Assessment
-        link: /vulnerability-assessment/
+      - title: Cybersecurity Research
+        link: /cybersecurity-research/
 
-      - title: Penetration Testing
-        link: /penetration-testing/
+      - title: Cybersecurity Trainig
+        link: /traning/
 
-      - title: Adversary Simulation
-        link: /adversary-simulation/
 
-  - title: Blog
+  - title: Research
     link: /blog/
 
   - title: Training
@@ -32,6 +30,7 @@ menuitems:
 
   - title: Store
     link: /store/
+
 cta:
   active: true
   title: Contact Us

@@ -1,23 +1,283 @@
 ---
 title: Store
 ---
+
+<style>
+body {
+    font-size: 1rem;
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10rem;
+    margin-bottom: 3rem;
+}
+
+@media screen and (max-width: 1000px){
+    h1 {
+    margin-top: 13rem;
+}
+}
+
+@media screen and (max-width: 800px){
+    h1 {
+    margin-top: 10rem;
+}
+}
+
+section {
+    padding: 3rem 0;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-lg-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.mainImageContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.mainImage {
+    width: 20rem;
+    height: 15rem;
+    margin: auto;
+    border-radius: 0.5rem;
+}
+
+.thumbnail {
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    margin: 0 0.25rem;
+    display: inline-block;
+}
+
+.thumbnail img {
+    width: 80px;
+    height: 70px;
+    border-radius: 0.25rem;
+}
+
+.ps-lg-3 {
+    padding-left: 1rem;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.h5 {
+    font-size: 1.25rem;
+}
+
+.h6 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .col-lg-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+</style>
+
 {{< brick_wide >}}
 
+<!-- content -->
+<div style="margin-top: 6rem; text-align: center; margin-bottom: 3rem">
+    <h1> Store </h1>
+</div>
 
-# Store
+## Red Team Tools
 
-Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at [fermentum](https://www.google.com) nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+<section class="py-5">
+  <div class="container">
+    <div class="row gx-5">
+      <aside class="col-lg-6" style="border: none;">
+        <div class="mainImageContainer rounded-4 mb-3 d-flex justify-content-center">
+          <a class="rounded-4">
+            <img class="mainImage rounded-4 fit" src="/uploads/gallerys2/pro1.jpeg" alt="Main Image" />
+          </a>
+        </div>
+        <div class="d-flex justify-content-center mb-3">
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1.jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1.jpeg" alt="Thumbnail 1" />
+          </a>
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1(1).jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1(1).jpeg" alt="Thumbnail 2" />
+          </a>
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1(2).jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1(2).jpeg" alt="Thumbnail 3" />
+          </a>
+        </div>
+        <!-- thumbs-wrap.// -->
+        <!-- gallery-wrap .end// -->
+      </aside>
+      <main class="col-lg-6">
+        <div class="ps-lg-3">
+          <h4 class="title text-dark">
+           LoRaC2 USB Hardware Module
+          </h4>
+          <div style="margin-top: .5rem; margin-bottom: .5rem;">
+            <span class="h5">Price: TBD</span>
+          </div>
+            <span class="h6">Specifications:</span>
+          <ul>
+          <li>TBD</li>
+          <li>TBD</li>
+          <li>TBD</li>
+          </ul>
+        </div>
+      </main>
+    </div>
+  </div>
+</section>
+<!-- content -->
 
-## Heading 2
+<section class="py-5">
+  <div class="container">
+    <div class="row gx-5">
+      <aside class="col-lg-6" style="border: none;">
+        <div class="mainImageContainer rounded-4 mb-3 d-flex justify-content-center">
+          <a class="rounded-4">
+            <img class="mainImage rounded-4 fit" src="/uploads/gallerys2/pro1.jpeg" alt="Main Image" />
+          </a>
+        </div>
+        <div class="d-flex justify-content-center mb-3">
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1.jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1.jpeg" alt="Thumbnail 1" />
+          </a>
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1(1).jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1(1).jpeg" alt="Thumbnail 2" />
+          </a>
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1(2).jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1(2).jpeg" alt="Thumbnail 3" />
+          </a>
+        </div>
+        <!-- thumbs-wrap.// -->
+        <!-- gallery-wrap .end// -->
+      </aside>
+      <main class="col-lg-6">
+        <div class="ps-lg-3">
+          <h4 class="title text-dark">
+           LoRaC2 USB Hardware Module
+          </h4>
+          <div style="margin-top: .5rem; margin-bottom: .5rem;">
+            <span class="h5">Price: TBD</span>
+          </div>
+            <span class="h6">Specifications:</span>
+                 <ul>
+          <li>TBD</li>
+          <li>TBD</li>
+          <li>TBD</li>
+          </ul>
+        </div>
+      </main>
+    </div>
+  </div>
+</section>
+<!-- content -->
 
-Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Maecenas](https://www.google.com) molestie sodales bibendum. Nullam egestas nulla eget justo cursus, vitae convallis nibh fermentum. Phasellus ornare, purus in dapibus gravida, diam odio feugiat lectus, in efficitur dolor ante ut odio.
+## RF Tools
 
-### Heading 3
+<section class="py-5">
+  <div class="container">
+    <div class="row gx-5">
+      <aside class="col-lg-6" style="border: none;">
+        <div class="mainImageContainer rounded-4 mb-3 d-flex justify-content-center">
+          <a class="rounded-4">
+            <img class="mainImage rounded-4 fit" src="/uploads/gallerys2/pro1.jpeg" alt="Main Image" />
+          </a>
+        </div>
+        <div class="d-flex justify-content-center mb-3">
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1.jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1.jpeg" alt="Thumbnail 1" />
+          </a>
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1(1).jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1(1).jpeg" alt="Thumbnail 2" />
+          </a>
+          <a class="border mx-1 rounded-2 thumbnail" href="#" data-img-src="/uploads/gallerys2/pro1(2).jpeg">
+            <img class="rounded-2" src="/uploads/gallerys2/pro1(2).jpeg" alt="Thumbnail 3" />
+          </a>
+        </div>
+        <!-- thumbs-wrap.// -->
+        <!-- gallery-wrap .end// -->
+      </aside>
+      <main class="col-lg-6">
+        <div class="ps-lg-3">
+          <h4 class="title text-dark">
+           LoRaC2 USB Hardware Module
+          </h4>
+          <div style="margin-top: .5rem; margin-bottom: .5rem;">
+            <span class="h5">Price: TBD</span>
+          </div>
+            <span class="h6">Specifications:</span>
+                 <ul>
+          <li>TBD</li>
+          <li>TBD</li>
+          <li>TBD</li>
+          </ul>
+        </div>
+      </main>
+    </div>
+  </div>
+</section>
+<!-- content -->
 
-Proin ac *lobortis* tellus, ut [maximus](https://www.google.com) magna. Aliquam facilisis risus sit amet augue congue varius. Duis augue nulla, aliquam vitae efficitur eget, bibendum et tellus. Aenean quis sagittis felis. 
-
-### Heading 3
-
-Donec rutrum felis dignissim nisl tincidunt, sit amet interdum dolor ornare. Cras id hendrerit eros. Curabitur tincidunt est magna, ac commodo quam fringilla id. Nullam at imperdiet justo. Donec **dolor quis** nibh *rutrum facilisis* sed vulputate pellentesque. Vivamus id mollis arcu. Cras porttitor eros erat, at semper ligula ultricies nec. Nam lectus ex, mollis efficitur erat pulvinar, gravida faucibus massa.
+{{< newsletterform >}}
 
 {{< /brick_wide >}}
+
+<!-- Initialize fslightbox -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const imageContainers = document.querySelectorAll('.mainImageContainer');
+
+    imageContainers.forEach(container => {
+      const mainImage = container.querySelector('.mainImage');
+      const thumbnails = container.parentElement.querySelectorAll('.thumbnail');
+
+      thumbnails.forEach(thumbnail => {
+        thumbnail.addEventListener('click', function(event) {
+          event.preventDefault();
+          const newSrc = this.getAttribute('data-img-src');
+          mainImage.src = newSrc;
+        });
+      });
+    });
+  });
+
+  // Reinitialize fslightbox after new content is added dynamically if needed
+  fslightbox();
+</script>
