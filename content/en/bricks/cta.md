@@ -1,10 +1,11 @@
 ---
 title: cta
 ---
-## Get started with Our Services today!
+## Partner With Us!
 
-Experience the future of CyberSecuirty with Us. Build lightning-fast Secuirty with ease and flexibility.
+At Red Defender Information Security we believe in collaboration and knowledge sharing.
+Partner with us to enhance your cybersecurity capabilities and stay ahead of emerging threats. 
 
-{{< button2 "Get started now" "/get-started/" >}}
+{{< button2 "Contact Us" "/get-started/" >}}
 
 ![](/uploads/banner.png)

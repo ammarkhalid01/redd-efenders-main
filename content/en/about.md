@@ -3,11 +3,14 @@ title: About
 ---
 {{< brick_about >}}
 
-{{< colorize_image "This is not me" "/uploads/photos/avatars/2.jpeg" >}}
+{{< colorize_image "This is not me" "/uploads/gallery/post-inside-image2.jpg" >}}
 
-# Hey, I am John Doe
+# Meet Our Team of Cybersecurity Experts
 
-Together with my friend 'Fenix' I have built Hugobricks, a theme that allows you to create a website by stacking shortcodes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. 
+At Red Defender Information Security, we are proud to introduce our team of cybersecurity
+professionals dedicated to protecting your digital assets. Our experts bring a wealth of
+knowledge, experience, and passion for security, ensuring that your organization is wellprotected against ever-evolving cyber threats. Learn more about the individuals who make us a
+leading force in the cybersecurity industry
 
 {{< socialbuttons >}}
 

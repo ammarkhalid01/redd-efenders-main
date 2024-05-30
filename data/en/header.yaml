@@ -12,18 +12,17 @@ menuitems:
     items: 
       - title:
         link:
-  - title: Services
-    link: /services/
-    items: 
-      - title: Cybersecurity Research
-        link: /cybersecurity-research/
-
-      - title: Cybersecurity Trainig
-        link: /traning/
-
-
   - title: Research
     link: /blog/
+    items: 
+      - title: Blogs
+        link: /blog/
+      - title: Events
+        link: /blog/
+      - title: Videos
+        link: /blog/
+
+
 
   - title: Training
     link: /traning/

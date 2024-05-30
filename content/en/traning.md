@@ -5,26 +5,38 @@ title: Training
 
 # CyberSecurity Training
 
-Empower your team with the knowledge and skills they need to defend against cyber threats. Our comprehensive training programs are designed to enhance your staff's cybersecurity awareness and proficiency, ensuring your organization remains secure.
+Empower	your	team	with	the	knowledge	and	skills	to	defend	against	cyber	
+threats.	Our	training	programs	are	designed	to	build	a	culture	of	security	
+awareness	and	resilience	within	your	organization.
 
-### Live, Instructor-led training over Zoom
 
     {{< /brick_wide >}}
 
 <div class="cards-container">
     <div class="card">
-        <h2>Offensive Development Training</h2>
-        <p>This intensive, hands-on experience offers a deep dive into Windows Internals, manipulation of Windows API functions dynamically, and developing malware in an isolated cyber range, providing you with the necessary tools to outsmart contemporary cyber defenses.</p>
+        <h2>Ethical Hacking Training Best Course</h2>
+        <p>This	comprehensive	program	is	designed	for	aspiring	ethical	hackers,	
+cybersecurity	professionals,	and	IT	enthusiasts	who	want	to	develop	the	skills	
+needed	to	identify,	exploit,	and	mitigate	security	vulnerabilities.	Through	handson	labs,	real-world	scenarios,	and	expert	instruction,	you	will	learn	the	essential	
+techniques	and	tools	used	in	ethical	hacking	and	penetration	testing.</p>
         {{< button "Get started" "/get-started/" >}}
     </div>
     <div class="card">
-        <h2>Advanced Red Team Operations Course</h2>
-        <p>Red Team Advanced Operations Training at White Knight Labs will equip you with cutting-edge techniques and skillful strategies to master complex cyber attack simulations. We will guide you through effective adversarial emulation and help you navigate the cybersecurity landscape.</p>
+        <h2>Android Mobile Penetration Testing</h2>
+        <p>This comprehensive program is designed for cybersecurity professionals,
+ethical hackers, and mobile app developers who want to master the skills
+needed to secure Android applications. Through hands-on labs, real-world
+scenarios, and expert instruction, you will learn how to identify, exploit,
+and mitigate vulnerabilities in Android applications.</p>
         {{< button "Get started" "/get-started/" >}}
     </div>
     <div class="card">
-        <h2>Offensive Azure Operations & Tactics</h2>
-        <p>A comprehensive program designed to give participants a deep understanding of Azure’s infrastructure and security features through practical, hands-on experience. During the two days of virtual instruction, you’ll learn how to identify and exploit Azure components.</p>
+        <h2>iOS	Mobile	Penetration	Testing</h2>
+        <p>This in-depth program	is	tailored	for	cybersecurity	professionals,	ethical	
+hackers,	and	mobile	app	developers	who	seek	to	acquire	expertise	in	securing	
+iOS	applications.	Through	practical	labs,	real-world	scenarios,	and	expert	
+instruction,	you	will	gain	the	skills	necessary	to	identify,	exploit,	and	mitigate	
+vulnerabilities	in	iOS	applications.</p>
         {{< button "Get started" "/get-started/" >}}
     </div>
 </div>

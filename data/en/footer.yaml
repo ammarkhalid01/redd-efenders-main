@@ -5,18 +5,11 @@ menuitems:
     link:  /
   - title: About
     link:  /about/
-  - title: Services
-    link:  /services/
+  - title: Training
+    link:  /traning/
+  - title: Store
+    link:  /store/
   - title: Contact Us
     link:  /get-started/
-socials:
-  - title: Facebook
-    link: https://facebook.com
-    logo_image: /img/facebook.svg
-  - title: Twitter
-    link: https://twitter.com
-    logo_image: /img/twitter.svg          
-  - title: Instagram
-    link: https://instagram.com
-    logo_image: /img/instagram.svg
-footer_text: All rights goes to  red-defenders | @copyright 2024
+
+footer_text: All rights goes to Red Defender Information Security | @Copyright 2024
