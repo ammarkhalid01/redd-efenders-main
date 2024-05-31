@@ -39,7 +39,7 @@ textarea.form-control {
 }
 </style>
 <form id="contactform" class="form" method="POST" action="/form.php">
-    <h3>Tell us a bit about yourself</h3>
+    <h3>Let’s partner together</h3>
     <div>
         <label class="inborder sr-only" for="name">Name</label>
         <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
@@ -74,4 +74,3 @@ textarea.form-control {
 
 
 {{< /brick_small >}}
-{{< brick_map >}}{{< /brick_map >}}
